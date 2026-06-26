@@ -176,12 +176,15 @@ Mode AB  — Execution      — runs deterministically on the result
 ## Validated behavior
 
 **Run 1** (2026-05-29 — first production run)
-Input: *ziekenhuis AI systeem ontwerp*
+Input: *Design an AI system for a hospital*
 Result: pipeline completed all 6 stages. STRUCTURER produced "ban all LLM components" — emergent transmutation not present in input.
 
 **Run 2** (2026-05-29 — context failure)
-Input: incomplete doctrine context (missing out-of-core streaming architecture)
-Result: REFUSED on Roofline analysis — but answered wrong question. Learning: context completeness is non-negotiable.
+Input: prompt with incomplete context — a critical architectural constraint was missing
+
+Result: REFUSED on technical analysis — but answered the wrong question. The system reasoned correctly within the wrong frame.
+
+Learning: context completeness is non-negotiable. iARTS distills what you put into it, not what you meant.
 
 **Run 3** (2026-06-19 — dual-GPU production run)
 Input: *smoke test*
