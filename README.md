@@ -51,10 +51,15 @@ First production run: 2026-05-29
 Current version: v1.2.0  
 Built by: Deltaworks
 
+## Roadmap
+
+Next: cloud model support — run iARTS on any provider.
+
 ---
 
 ## Contact
 
 deltaworks.it
+hi@deltaworks.it
 
 *The 6 wise ones are wise only when the doctrine that feeds them is whole.*
