@@ -1,16 +1,13 @@
-iARTS
+# iARTS
+### Iterative Adversarial Reasoning Transmutation System
 
-Iterative Adversarial Reasoning Transmutation System
+> *It is not a multi-agent tool. It is not a conventional pipeline.*
+> *It is a cognition engine that transforms ideas through structured conflict,*
+> *until only what can withstand constraint remains.*
 
+---
 
-It is not a multi-agent tool. It is not a conventional pipeline.
-It is a cognition engine that transforms ideas through structured conflict,
-until only what can withstand constraint remains.
-
-
-
-
-What is this
+## What is this
 
 Most AI systems generate answers.
 
@@ -18,10 +15,11 @@ iARTS refuses everything until only what holds true remains.
 
 The difference is not the models. It is the architecture. Ideas enter as flat prompts. They exit as something that did not exist at the start — transmuted through structured adversarial conflict, not summarized, not averaged, not improved.
 
-REFUSED is not a failure mode. It is the correct output when the premise does not hold.
+**REFUSED is not a failure mode. It is the correct output when the premise does not hold.**
 
+---
 
-How it works
+## How it works
 
 Six agents. One closed loop. No consensus without conflict.
 
@@ -31,33 +29,32 @@ The loop does not end until the idea has been forced open, attacked, synthesized
 
 What comes out is not what went in.
 
+---
 
-What makes it different
+## What makes it different
 
-Fusion combines model outputs and picks the best one.
-
-Fugu orchestrates models and blends their reasoning.
-
+Fusion combines model outputs and picks the best one.  
+Fugu orchestrates models and blends their reasoning.  
 iARTS enforces epistemology.
 
 No silent degradation. No fallback. No "here is my best guess."
 
 Either the idea survives scrutiny — or it doesn't.
 
+---
 
-Status
+## Status
 
 Fully operational. Runs locally on personal hardware. No cloud. No external API. No data leaves the machine.
 
-First production run: 2026-05-29
-
-Current version: v1.2.0
-
+First production run: 2026-05-29  
+Current version: v1.2.0  
 Built by: Deltaworks
 
+---
 
-Contact
+## Contact
 
 deltaworks.it
 
-The 6 wise ones are wise only when the doctrine that feeds them is whole.
+*The 6 wise ones are wise only when the doctrine that feeds them is whole.*
