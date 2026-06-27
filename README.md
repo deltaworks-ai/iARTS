@@ -59,7 +59,7 @@ Next: cloud model support — run iARTS on any provider.
 
 ## Contact
 
-deltaworks.it
+deltaworks.it  
 hi@deltaworks.it
 
 *"The 6 wise ones are wise only when the doctrine that feeds them is whole."*
